@@ -15,17 +15,40 @@ Contents
 .. toctree::
    :maxdepth: 3
    :caption: About
+
+   /About/general_information
+   /About/faq
    
 .. toctree::
    :maxdepth: 3
    :caption: Background
 
+   /Background/introduction
+   /Background/calculate_CDI
+   /Background/calculate_SPI
+   /Background/calculate_FAPAR_ANOM
+   /Background/calculate_SMA
+
 .. toctree::
    :maxdepth: 3
    :caption: User Guide
+
+   /User_Guide/introduction
+   /User_Guide/mapviewer
+   /User_Guide/report
    
 .. toctree::
    :maxdepth: 3
    :caption: Maintenance Guide
+
+   /Maintenance_Guide/introduction
+   /Maintenance_Guide/cms_components
+   /Maintenance_Guide/cms_display_page
+   /Maintenance_Guide/cms_edit_page
+   /Maintenance_Guide/cms_edit_page_tab
+   /Maintenance_Guide/cms_page_moderation
+   /Maintenance_Guide/cms_admin_tasks
+   /Maintenance_Guide/cms_mapviewer_manager
+
 
 
