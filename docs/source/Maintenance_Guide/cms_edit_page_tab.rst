@@ -34,4 +34,4 @@ The Settings tab has two fields by default.
 2. Expiry date/time: Sets the time at which this page should be unpublished.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3

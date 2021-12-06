@@ -18,4 +18,4 @@ The menu allows you to perform the following actions, dependent on whether you a
 * **Delete**: Clicking this button will take you to a confirmation screen asking you to confirm that you wish to delete the current page. Be sure that this is actually what you want to do, as deleted pages are not recoverable. In many situations simply unpublishing the page will be enough. (moderators and administrators only)
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3

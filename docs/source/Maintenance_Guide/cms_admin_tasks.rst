@@ -87,4 +87,4 @@ When editing a task, you may find that some fields - including the name - are un
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
