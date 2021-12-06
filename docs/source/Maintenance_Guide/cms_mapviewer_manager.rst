@@ -28,3 +28,5 @@ Legend attributes include a title, a legend type (basic, choropleth, gradient) a
 
 .. note:: Creating a legend only creates the symbology representation on the mapviewer. To change the actual colors showing on the map for each layer, edit classification mapfiles as explained in MapServer mapfiles section.
 
+.. toctree::
+   :maxdepth: 2

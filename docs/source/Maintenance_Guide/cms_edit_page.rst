@@ -34,3 +34,5 @@ If the page is currently in workflow, you’ll see an additional indicator under
 
 If you can perform moderation actions (for example, approval or requesting changes) on the current task, you’ll see additional options in the action menu at the bottom of the page.
 
+.. toctree::
+   :maxdepth: 2

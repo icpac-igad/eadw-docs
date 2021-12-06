@@ -140,3 +140,6 @@ Similar buttons are available for each child page. These are made visible on hov
 * Reorder by dragging the pages by the handles on the far left (the icon made up of 6 dots). 
 
 * Your new order will be automatically saved each time you drag and drop an item.
+
+.. toctree::
+   :maxdepth: 2

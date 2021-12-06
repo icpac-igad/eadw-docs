@@ -96,3 +96,7 @@ Inserting videos into body content
 ______________________________________
 
 It is possible to embed media into the body text of a web page by clicking the Embed button in rich text toolbar. Copy and paste the web address for the media into the URL field and click Insert.
+
+
+.. toctree::
+   :maxdepth: 2
