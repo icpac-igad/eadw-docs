@@ -11,21 +11,18 @@ The **East Africa Drought Watch** is a near-real time system that uses **Earth O
 The system is a service **developed as part of the Intra-ACP Climate Services Project** in collaboration with the **Drought Unit at the Joint Research Centre of the European Commission**. The system is an **adaptation of the European Drought Observatory (EDO)** adapted to the conditions in the East Africa region
 The (JRC) currently operates two Drought Observatories (DO): European Drought Observatory (EDO) and the Global Drought Observatory (GDO). These platforms are based on a shared technical platform that implements the above components and other additional enhancements. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
 Contents
 --------
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: About
 
    /About/general_information
    /About/faq
    
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: Background
 
    /Background/introduction
@@ -35,7 +32,7 @@ Contents
    /Background/calculate_SMA
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: User Guide
 
    /User_Guide/introduction
@@ -44,7 +41,7 @@ Contents
    /User_Guide/feedback
    
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: Maintenance Guide
 
    /Maintenance_Guide/introduction
@@ -57,7 +54,7 @@ Contents
    /Maintenance_Guide/cms_mapviewer_manager
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: Data Manager Guide
 
    /Data_Manager_Guide/introduction
