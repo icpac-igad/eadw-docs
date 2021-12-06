@@ -36,6 +36,7 @@ Contents
    /User_Guide/introduction
    /User_Guide/mapviewer
    /User_Guide/report
+   /User_Guide/feedback
    
 .. toctree::
    :maxdepth: 3
