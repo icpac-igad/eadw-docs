@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'East Africa Drought Watch'
+copyright = '2021, ICPAC'
+author = 'ICPAC'
 
 release = '0.1'
 version = '0.1.0'
