@@ -13,6 +13,19 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 3
+   :caption: About
+   
+.. toctree::
+   :maxdepth: 3
+   :caption: Background
 
-   usage
-   api
+.. toctree::
+   :maxdepth: 3
+   :caption: User Guide
+   
+.. toctree::
+   :maxdepth: 3
+   :caption: Maintenance Guide
+
+
