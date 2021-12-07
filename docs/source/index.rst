@@ -32,7 +32,6 @@ Background information
    :hidden:
    :caption: Background
 
-   /Background/introduction
    /Background/calculate_CDI
    /Background/calculate_SPI
    /Background/calculate_FAPAR_ANOM
