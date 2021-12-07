@@ -8,7 +8,7 @@ for display and analysis this drought information and drought reports give an ov
 .. image:: ../_static/user_guide/mapviewer.png
    :align: center
 
-Visit the system at https://droughtwatch.icpac.net/mapviewer
+Visit the system at https://droughtwatch.icpac.net
 
 It comprises of:
 
@@ -26,6 +26,9 @@ It comprises of:
 
 * Additional information such as periodic reports
   
+On the landing page of the system (https://droughtwatch.icpac.net), the latest situation of drought based on the Combined Drought Indicator is displayed. This
+Indicator is based on SPI, Soil moisture and fAPAR, to identify areas with potential to suffer agricultural drought, areas where the vegetation is already affected by drought conditions, 
+and areas in recovery process to normal conditions after a drought episode. `More details <https://droughtwatch.icpac.net/documents/2/EADW-CDI-Factsheet.pdf>`_ 
 
 Within the user guide, you will be able to undestand how to:
 
