@@ -8,4 +8,4 @@ This guide will begin with a walkthrough of the Content Management System’s el
 The Content Management System is built upon Wagtail, an open source content management system based on the Django framework and designed to be super easy to use for both developers and editors.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3

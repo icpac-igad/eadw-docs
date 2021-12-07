@@ -12,14 +12,16 @@ The system is a service **developed as part of the Intra-ACP Climate Services Pr
 The (JRC) currently operates two Drought Observatories (DO): European Drought Observatory (EDO) and the Global Drought Observatory (GDO). These platforms are based on a shared technical platform that implements the above components and other additional enhancements. 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
+   :hidden:
    :caption: About
 
    /About/general_information
    /About/faq
    
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
+   :hidden:
    :caption: Background
 
    /Background/introduction
@@ -29,7 +31,8 @@ The (JRC) currently operates two Drought Observatories (DO): European Drought Ob
    /Background/calculate_SMA
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
+   :hidden:
    :caption: User Guide
 
    /User_Guide/introduction
@@ -38,7 +41,8 @@ The (JRC) currently operates two Drought Observatories (DO): European Drought Ob
    /User_Guide/feedback
    
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
+   :hidden:
    :caption: Maintenance Guide
 
    /Maintenance_Guide/introduction
@@ -51,7 +55,8 @@ The (JRC) currently operates two Drought Observatories (DO): European Drought Ob
    /Maintenance_Guide/cms_mapviewer_manager
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
+   :hidden:
    :caption: Data Manager Guide
 
    /Data_Manager_Guide/introduction

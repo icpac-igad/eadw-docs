@@ -99,4 +99,4 @@ It is possible to embed media into the body text of a web page by clicking the E
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3

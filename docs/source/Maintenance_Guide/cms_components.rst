@@ -142,4 +142,4 @@ Similar buttons are available for each child page. These are made visible on hov
 * Your new order will be automatically saved each time you drag and drop an item.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3

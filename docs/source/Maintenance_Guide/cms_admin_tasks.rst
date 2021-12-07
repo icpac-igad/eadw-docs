@@ -86,5 +86,4 @@ When creating a task, if you have multiple task types available, these will be o
 When editing a task, you may find that some fields - including the name - are uneditable. This is to ensure workflow history remains consistent - if you find yourself needing to change the name, it is recommended that you disable the old task, and create a new one with the name you need. Disabling a task will cause any pages currently in moderation on that task to skip to the next task.
 
 
-.. toctree::
-   :maxdepth: 2
+
