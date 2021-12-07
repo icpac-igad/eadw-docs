@@ -62,7 +62,7 @@ Soil Moisture Anomaly, and FAPAR Anomaly – using a classification scheme consi
 of five drought levels (corresponding to the different stages of the cause-effect
 relationship for agricultural drought).
 
-.. image:: ./_static/background/cdi_calculate.png
+.. image:: ../_static/background/cdi_calculate.png
    :align: center
 
 
@@ -122,7 +122,7 @@ drought classes is summarised BELOW as well as the colour scheme used for depict
 in the CDI maps
 
 
-.. image:: ./_static/background/derive_cdi.png
+.. image:: ../_static/background/derive_cdi.png
    :align: center
 
 
@@ -146,7 +146,7 @@ shows its potential as an early warning system, identifying the areas with poten
 suffer drought effects (i.e. “Watch”), later on confirming this (i.e. “Warning”) and
 identifying the areas where the vegetation condition was being affected (i.e. “Alert”).
 
-.. image:: ./_static/background/time_series_cdi.png
+.. image:: ../_static/background/time_series_cdi.png
    :align: center
 
 
