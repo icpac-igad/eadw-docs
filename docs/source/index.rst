@@ -13,6 +13,7 @@ The (JRC) currently operates two Drought Observatories (DO): European Drought Ob
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: About
 
    /About/general_information
@@ -20,6 +21,7 @@ The (JRC) currently operates two Drought Observatories (DO): European Drought Ob
    
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: Background
 
    /Background/introduction
@@ -30,6 +32,7 @@ The (JRC) currently operates two Drought Observatories (DO): European Drought Ob
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: User Guide
 
    /User_Guide/introduction
@@ -39,6 +42,7 @@ The (JRC) currently operates two Drought Observatories (DO): European Drought Ob
    
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: Maintenance Guide
 
    /Maintenance_Guide/introduction
@@ -52,6 +56,7 @@ The (JRC) currently operates two Drought Observatories (DO): European Drought Ob
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: Data Manager Guide
 
    /Data_Manager_Guide/introduction
