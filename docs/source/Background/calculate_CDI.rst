@@ -13,13 +13,20 @@ The meteorological, hydrological and satellite-derived biophysical upon which th
 indicator produced by EADW is based, as well as the indicator’s temporal and spatial
 scales and geographic coverage, are summarised below.
 
-+---------------------------------+---------------------+---------------+--------------+
-| Variable                        | Temporal Scale      | Spatial Scale | Coverage     |
-+---------------------------------+---------------------+---------------+--------------+
-| - Precipitation Anomalies (SPI) | 10 days (= 1 dekad) | 0.1 Decimal   | Greater Horn |
-| - fAPAR Anomalies               |                     | Degrees/10 km | of Africa    |
-| - Soil Moisture Anomalies       |                     |               |              |
-+---------------------------------+---------------------+---------------+--------------+
++----------------+---------------------------------+
+| Variable       | - Precipitation Anomalies (SPI) |
+|                |                                 |
+|                | - fAPAR Anomalies               |
+|                |                                 |
+|                | - Soil Moisture Anomalies       |
++----------------+---------------------------------+
+| Temporal Scale | 10 days (= 1 dekad)             |
++----------------+---------------------------------+
+| Spatial Scale  | 0.1 Decimal Degrees/10 km       |
++----------------+---------------------------------+
+| Coverage       | Greater Horn of Africa          |
++----------------+---------------------------------+
+
 
 Overview
 _____________________
