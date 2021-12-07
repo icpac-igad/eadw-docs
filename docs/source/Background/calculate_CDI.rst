@@ -13,20 +13,21 @@ The meteorological, hydrological and satellite-derived biophysical upon which th
 indicator produced by EADW is based, as well as the indicatorâ€™s temporal and spatial
 scales and geographic coverage, are summarised below.
 
-+----------------+---------------------------------+
-| Variable       | - Precipitation Anomalies (SPI) |
-|                |                                 |
-|                | - fAPAR Anomalies               |
-|                |                                 |
-|                | - Soil Moisture Anomalies       |
-+----------------+---------------------------------+
-| Temporal Scale | 10 days (= 1 dekad)             |
-+----------------+---------------------------------+
-| Spatial Scale  | 0.1 Decimal Degrees/10 km       |
-+----------------+---------------------------------+
-| Coverage       | Greater Horn of Africa          |
-+----------------+---------------------------------+
++--------------------+---------------------------------+
+| **Variable**       | - Precipitation Anomalies (SPI) |
+|                    |                                 |
+|                    | - fAPAR Anomalies               |
+|                    |                                 |
+|                    | - Soil Moisture Anomalies       |
++--------------------+---------------------------------+
+| **Temporal Scale** | 10 days (= 1 dekad)             |
++--------------------+---------------------------------+
+| **Spatial Scale**  | 0.1 Decimal Degrees/10 km       |
++--------------------+---------------------------------+
+| **Coverage**       | Greater Horn of Africa          |
++--------------------+---------------------------------+
 
+------------
 
 Overview
 _____________________
@@ -48,6 +49,7 @@ These levels are:
 
 - **'Full recovery'** when meteorological and vegetation normal conditions are recovered.
 
+------------
 
 What the indicator shows
 _________________________________________________________________________________
@@ -72,6 +74,7 @@ relationship for agricultural drought).
 .. image:: ../_static/background/cdi_calculate.png
    :align: center
 
+------------
 
 How the indicator is computed
 _________________________________________________________________________________
@@ -114,6 +117,7 @@ following month, and with FAPAR anomalies of the 3rd dekad of that month and the
 1st and 2nd dekads of the following month. Each month is assumed to have three
 dekads (days 1-10; days 11-20; day 21 to the end of the month)
 
+------------
 
 How to use the indicator
 _______________________________________
@@ -130,6 +134,7 @@ identifying the areas where the vegetation condition was being affected (i.e. â€
 .. image:: ../_static/background/time_series_cdi.png
    :align: center
 
+------------
 
 Strengths
 _____________________
@@ -144,11 +149,14 @@ _____________________
   evidence of drought, can also support policy-makers in effective risk management
   and decision-making.
 
+------------
+
 Weaknesses
 _____________________
 
 - The satellite-derived FAPAR Anomaly indicator is based on reflected solar radiation, with wavelengths in the optical (i.e. visible and infrared wavelength) region of the electromagnetic spectrum, and is therefore not effective in the presence of clouds. Clouds are generally masked out before the indicator is computed. However, low clouds are not always detected, resulting in erroneous indicator values. This is a particular problem in northern European countries. One way to address this issue would be to use more than one indicator related to vegetation growth.
 
+------------
 
 References
 ____________
