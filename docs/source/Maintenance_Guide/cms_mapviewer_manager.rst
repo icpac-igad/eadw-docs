@@ -28,3 +28,19 @@ Legend attributes include a title, a legend type (basic, choropleth, gradient) a
 
 .. note:: Creating a legend only creates the symbology representation on the mapviewer. To change the actual colors showing on the map for each layer, edit classification mapfiles as explained in MapServer mapfiles section.
 
+
+Creating, updating and deleting dataset categories
+_________________________________________________________________________________
+
+
+Creating, updating and deleting a datasets
+_________________________________________________________________________________
+
+
+Creating, updating and deleting a layer/ layers belonging to a dataset
+_________________________________________________________________________________
+
+
+Creating, updating and deleting metadata information and linking it to a dataset
+_________________________________________________________________________________
+
