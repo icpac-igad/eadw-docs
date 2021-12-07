@@ -34,18 +34,5 @@ html_theme = 'sphinx_rtd_theme'
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 html_static_path = ['_static']
-latex_elements = {
-# The paper size ('letterpaper' or 'a4paper').
-#'papersize': 'letterpaper',
 
-# The font size ('10pt', '11pt' or '12pt').
-'pointsize': '10pt',
-
-# Additional stuff for the LaTeX preamble.
-#'preamble':'',
-
-#Figure placement within LaTeX paper NOT WORKING
-'figure_align': 'H',
-
-}
 master_doc = 'index'

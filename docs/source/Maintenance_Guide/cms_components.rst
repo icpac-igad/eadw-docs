@@ -6,7 +6,7 @@ Overall CMS Components
 Logging in
 ____________
 
-The first port of call for an editor is the login page for the administrator interface. Access this by adding /admin onto the end of your root URL (e.g. https://droughtwatch.icpac.net/cms). Enter your username and password and click Sign in.
+The first port of call for an editor is the login page for the administrator interface. Access this by adding /cms onto the end of your root URL (e.g. https://droughtwatch.icpac.net/cms). Enter your username and password and click Sign in.
 
 .. image:: ../_static/maintenance_guide/loggin.png
    :align: center
@@ -140,6 +140,3 @@ Similar buttons are available for each child page. These are made visible on hov
 * Reorder by dragging the pages by the handles on the far left (the icon made up of 6 dots). 
 
 * Your new order will be automatically saved each time you drag and drop an item.
-
-.. toctree::
-   :maxdepth: 3

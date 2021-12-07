@@ -13,8 +13,6 @@ The (JRC) currently operates two Drought Observatories (DO): European Drought Ob
 About
 --------
 
-Hello world
-
 .. toctree::
    :maxdepth: 2
    :hidden:
@@ -26,8 +24,6 @@ Hello world
 
 Background information
 ------------------------
-
-Hello world
 
 .. toctree::
    :maxdepth: 2
@@ -44,8 +40,6 @@ Hello world
 User Guide
 --------------
 
-Hello world
-
 .. toctree::
    :maxdepth: 2
    :hidden:
@@ -59,8 +53,6 @@ Hello world
 
 Maintenance Guide
 --------------------
-
-Hello world
 
 .. toctree::
    :maxdepth: 2
