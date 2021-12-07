@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
-=======================================
+East Africa Drought Watch Guide (User and maintenance manual)
+===============================================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Documentation here: https://droughtwatch.readthedocs.io/en/latest/
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+:download:`Download Manual here <https://droughtwatch.readthedocs.io/_/downloads/en/1.0.0/pdf/>` 

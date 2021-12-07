@@ -4,7 +4,7 @@ Frequently Asked Questions
 Datasets
 ____________
 
-How is the Combined Drought Indicator generated?
+How is the Combined Drought Indicator computed?
 ---------------------------------------------------
 
 
@@ -18,6 +18,8 @@ Is there an option to download raster data on the drought watch?
 
 What is the rationale for having recovery levels on the CDI?
 -------------------------------------------------------------
+
+
 
 
 Future Plans
