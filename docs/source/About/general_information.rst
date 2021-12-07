@@ -1,4 +1,2 @@
 General information
----------------------------
-
-Hello world
+=====================
