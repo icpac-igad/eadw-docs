@@ -7,8 +7,19 @@ The East Africa Drought Watch is a near-real time system that uses Earth Observa
    :align: center
 
 
+Authors
+_____________________
+
 The system is a service developed as part of the Intra-ACP Climate Services Project in collaboration with the Drought Unit at the Joint Research Centre of the European Commission. The system is an adaptation of the European Drought Observatory (EDO) adapted to the conditions in the East Africa region The (JRC) currently operates two Drought Observatories (DO): European Drought Observatory (EDO) and the Global Drought Observatory (GDO). These platforms are based on a shared technical platform that implements the above components and other additional enhancements.
 
 .. image:: ../_static/about/partners.png
    :align: center
+
+----------
+
+
+Get in Touch
+_____________________
+
+Contact the Drought Watch team with any comments or suggestions. If you have specific bugs to report or improvements to the tool that you would like to suggest, you can also submit them through our contact us form https://droughtwatch.icpac.net/contact/ .
 
