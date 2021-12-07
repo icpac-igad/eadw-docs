@@ -1,5 +1,9 @@
 General information
 ---------------------------
 
+Hello world
+
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
+   :numbered:
+   :caption: About
