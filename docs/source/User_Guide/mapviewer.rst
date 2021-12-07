@@ -7,15 +7,17 @@ over a period of time from Earth Observation and Station data.
 .. image:: ../_static/user_guide/mapviewer_wide.png
    :align: center
 
+------------
+
+
 Visualization of raster layers for selected weather and biophysical indicators and anomalies
 _____________________________________________________________________________________________
 
 The system's mapviewer houses a number of layers. Each layer can be displayed on the map through toggling it on and off. A legend will be displayed on the right 
 for each layer that has been activated. 
 
-.. image:: ../_static/user_guide/mapviewer_wide.png
+.. image:: ../_static/user_guide/layers.png
    :align: center
-
 
 For multilayers, a secondary layer will appear on the legend which can also be toggled on and off. 
 
@@ -24,6 +26,8 @@ rearrange the order of activated layers(2) by dragging them from to top or botto
 
 .. image:: ../_static/user_guide/legend_tools.png
    :align: center
+
+------------
 
 
 Layer metadata
@@ -58,6 +62,9 @@ beside the layer name. The layer metadata includes:
 .. image:: ../_static/user_guide/metadata.png
    :align: center
 
+------------
+
+
 Retrieve pixel value
 _________________________
 
@@ -66,6 +73,9 @@ the selected date, the location and the value for this pixel. Switch between act
 
 .. image:: ../_static/user_guide/identify.png
    :align: center
+
+------------
+
 
 Manage Map Settings
 _____________________
@@ -80,6 +90,8 @@ To acces map settings click on the 'Default' map image at the bottom right corne
 
 .. image:: ../_static/user_guide/map_settings.png
    :align: center
+
+------------
 
 
 Manage Map Styles

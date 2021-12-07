@@ -14,17 +14,17 @@ It comprises of:
 
 + **A web-GIS environment**:
 
-* Weather and Earth Observation (EO) indicators 
+  * Weather and Earth Observation (EO) indicators 
 
-* Automatic warnings regarding developing or actual drought events every 10 days
+  * Automatic warnings regarding developing or actual drought events every 10 days
 
-* Additional indicators showing recovery process after drought events
+  * Additional indicators showing recovery process after drought events
 
 + **A statistics dashboard**:
 
-* Indicators statistics aggregated at sub-national level(s)
+  * Indicators statistics aggregated at sub-national level(s)
 
-* Additional information such as periodic reports
+  * Additional information such as periodic reports
   
 On the landing page of the system (https://droughtwatch.icpac.net), the latest situation of drought based on the Combined Drought Indicator is displayed. This
 Indicator is based on SPI, Soil moisture and fAPAR, to identify areas with potential to suffer agricultural drought, areas where the vegetation is already affected by drought conditions, 
