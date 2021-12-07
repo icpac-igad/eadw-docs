@@ -7,7 +7,7 @@ This section of the guide documents how to perform common tasks as an administra
 
 
 Managing users and roles
-______________________________________
+-------------------------
 
 As an administrator, a common task will be adding, modifying or removing user profiles.
 This is done via the ‘Users’ interface, which can be found in the Settings menu, accessible via the left-hand menu bar.
@@ -43,7 +43,7 @@ Click the ‘Roles’ tab to edit the level of access your users have. By defaul
 
 
 Managing Workflows
-______________________________________
+-----------------------------
 
 Workflows allow you to configure how moderation works on your site. Workflows are sequences of tasks, all of which must be approved before the workflow completes (by default, this results in the publication of the page, but depends on your site settings).
 
@@ -58,7 +58,7 @@ The number of pages each workflow applies to is also shown, and can be clicked f
 
 
 Editing workflows
---------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../_static/maintenance_guide/edit_workflow.png
    :align: center
@@ -70,7 +70,7 @@ Under Assign your workflow to pages, you can see a list of the pages to which th
 The action menu at the bottom allows you to save your changes, or to disable the workflow, which will cancel all pages currently in moderation on this workflow, and prevent others from starting it. On a previously disabled workflow, there is also the option to enable it again.
 
 Creating and editing tasks
-______________________________________
+-----------------------------
 
 .. image:: ../_static/maintenance_guide/edit_tasks.png
    :align: center

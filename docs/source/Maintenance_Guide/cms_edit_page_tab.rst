@@ -32,6 +32,3 @@ The Settings tab has two fields by default.
 1. **Go Live date/time**: Sets the time at which the changes should go live when published. See Scheduled Publishing for more details. 
 
 2. Expiry date/time: Sets the time at which this page should be unpublished.
-
-.. toctree::
-   :maxdepth: 3
