@@ -72,37 +72,11 @@ ________________________________________________________________________________
 The Combined Drought Indicator (CDI) is derived by integrating the following three
 main drought indicators, which are implemented operationally within the system:
 
-+------------------------------+--------------------------------------------------+
-| **Standardized               | The SPI indicator measures precipitation         |
-| Precipitation Index (SPI)**: | anomalies at a given location, based on a        |
-|                              | comparison of observed total precipitation       |
-|                              | amounts for an accumulation period of            |
-|                              | interest (e.g. 1, 3, 12, 48 months), with the    |
-|                              | long-term historic rainfall record for that      |
-|                              | period (McKee et al., 1993; Edwards and          |
-|                              | McKee, 1997).                                    |
-+------------------------------+--------------------------------------------------+
-| **Soil Moisture Anomaly      | The SMA indicator is derived from anomalies      |
-| (SMA)**:                     | of estimated daily soil moisture (or soil water) |
-|                              | content - represented as standardized soil       |
-|                              | moisture index (SMI) - which is produced by      |
-|                              | the JRC’s LISFLOOD hydrological model (de        |
-|                              | Roo et al. 2000), and which has been shown       |
-|                              | to be effective for drought detection            |
-|                              | purposes (Laguardia and Niemeyer, 2008).         |
-+------------------------------+--------------------------------------------------+
-| **FAPAR Anomaly**:           | The FAPAR Anomaly indicator is computed as       |
-|                              | deviations of the biophysical variable Fraction  |
-|                              | of Absorbed Photosynthetically Active            |
-|                              | Radiation (FAPAR), composited for 10- day        |
-|                              | intervals, from long-term mean values.           |
-|                              | Satellite-measured FAPAR represents the          |
-|                              | fraction of incident solar radiation that is     |
-|                              | absorbed by land vegetation for                  |
-|                              | photosynthesis, and is effective for detecting   |
-|                              | and assessing drought impacts on vegetation      |
-|                              | canopies (Gobron et al., 2005).                  |
-+------------------------------+--------------------------------------------------+
+1. **Standardized Precipitation Index (SPI)**: The SPI indicator measures precipitation anomalies at a given location, based on a comparison of observed total precipitation amounts for an accumulation period of interest (e.g. 1, 3, 12, 48 months), with the long-term historic rainfall record for that period (McKee et al., 1993; Edwards and McKee, 1997).
+
+2. **Soil Moisture Anomaly (SMA)**: The SMA indicator is derived from anomalies of estimated daily soil moisture (or soil water) content - represented as standardized soil moisture index (SMI) - which is produced by the JRC’s LISFLOOD hydrological model (de Roo et al. 2000), and which has been shown to be effective for drought detection purposes (Laguardia and Niemeyer, 2008).
+
+3. **FAPAR Anomaly**: The FAPAR Anomaly indicator is computed as deviations of the biophysical variable Fraction of Absorbed Photosynthetically Active Radiation (FAPAR), composited for 10- day intervals, from long-term mean values. Satellite-measured FAPAR represents the fraction of incident solar radiation that is absorbed by land vegetation for photosynthesis, and is effective for detecting and assessing drought impacts on vegetation canopies (Gobron et al., 2005).
 
 The one-month, three-month, nine-month and twelve-month Standardized
 Precipitation Index (SPI-1 and SPI-3) are used for computing the CDI. Several studies
@@ -201,6 +175,6 @@ ____________
     Europe. Natural Hazards and Earth System Sciences, 12, 3519-3531.
 
 
-`Learn more: <https://droughtwatch.icpac.net/documents/2/EADW-CDI-Factsheet.pdf>`_ 
+`CDI Factsheet: <https://droughtwatch.icpac.net/documents/2/EADW-CDI-Factsheet.pdf>`_ 
 
 :download:`Download CDI Data <https://droughtwatch.icpac.net:5000/IGAD_Combined_Drought_Indicator/CHIRPS/>` 
