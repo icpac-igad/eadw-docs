@@ -36,3 +36,9 @@ epub_show_urls = 'footnote'
 html_static_path = ['_static']
 
 master_doc = 'index'
+
+html_theme_options = {
+    'style_nav_header_background':'#272525'
+}
+
+html_logo = 'logo.svg'
