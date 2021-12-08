@@ -42,4 +42,4 @@ html_theme_options = {
     'logo_only':True
 }
 
-html_logo = 'logo_dw.svg'
+html_logo = 'logo_eadw.svg'
