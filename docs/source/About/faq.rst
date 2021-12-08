@@ -203,11 +203,6 @@ Any plans on predicting drought?
 
 Plans are underway to incorporate forecasted datasets relevant to drought e.g Forecasted SPI.
 
-Will the system offer support for side-by-side comparison of layers?
----------------------------------------------------------------------
-
-Comparison of layers side-by-side is among the many features underway. This feature will go along way in aiding better image interpretation and detection of change at a glance.
-
 
 Do you plan to support raster data download for custom areas of interest?
 -------------------------------------------------------------------------
