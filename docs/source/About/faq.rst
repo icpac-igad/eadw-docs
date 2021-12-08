@@ -189,6 +189,9 @@ of drought occurence which do not seem to correlate to what is happening on the 
 Soil Moisture Anomaly, SPI and fAPAR Anomaly data to yield its results, it is yet to integrate exposure/vulnerability information to furthur customize it for the region. It is also worth 
 noting the accuracy of the CDI is constrained by the accuracy of the datasets it is derived from.
 
+Plans are underway to develop a form to crowdsource ground truth information relating to the occurence of drought. In the meantime, feel free to drop your feedback
+at https://droughtwatch.icpac.net/contact/
+
 ------
 
 
