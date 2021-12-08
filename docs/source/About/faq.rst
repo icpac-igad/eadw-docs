@@ -72,11 +72,11 @@ To elaborate the above table better, below is an example of computation of dekad
 Availability of fAPAR Anomaly and Soil Moisture Anomaly datasets is approximately during the dates shown below.
 
 +-----------+-----------+-----------------------------------------------+
-| **Month** | **Dekad** | **Data availability dates (these **           |
+| **Month** | **Dekad** | **Data availability dates (these**            |
 |           |           |                                               |
-|           |           | **are the dates when fAPAR Anomaly **         |
+|           |           | **are the dates when fAPAR Anomaly**          |
 |           |           |                                               |
-|           |           | **and Soil Moisture will be made **           |
+|           |           | **and Soil Moisture will be made**            |
 |           |           |                                               |
 |           |           | **available on JRC Jeodpp)**                  |
 |           |           +-------------------+---------------------------+
@@ -191,7 +191,7 @@ Will the system offer support for side-by-side comparison of layers?
 Comparison of layers side-by-side is among the many features underway. This feature will go along way in aiding better image interpretation and detection of change at a glance.
 
 
-Do you plan to support raster data download for customareas of interest?
+Do you plan to support raster data download for custom areas of interest?
 -------------------------------------------------------------------------
 
 In addition to supplying raster data for the entire region, development plans are underway to allow users to dynamically download raster files on the system for a subset of their area 
