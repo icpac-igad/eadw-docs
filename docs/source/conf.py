@@ -38,7 +38,8 @@ html_static_path = ['_static']
 master_doc = 'index'
 
 html_theme_options = {
-    'style_nav_header_background':'#272525'
+    'style_nav_header_background':'#272525',
+    'logo_only':True
 }
 
 html_logo = 'logo.svg'
