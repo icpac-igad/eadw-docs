@@ -53,109 +53,107 @@ CDI is computed based on availability of SPI, fAPAR Anomaly and Soil Moisture An
 
 To elaborate the above table better, below is an example of computation of dekadal CDI for the month of November.
 
-+-----------------+------------------+-----------------+-----------------+
-| **CDI (dekad)** | **fAPAR Anomaly  | **SMA (dekad)** | **SPI (month)** |
-|                 |                  |                 |                 |
-|                 | (dekad)**        |                 |                 |
-+-----------------+------------------+-----------------+-----------------+
-| 1st Dekad       | 1st Dekad        | 3rd Dekad       | October         |
-|                 |                  |                 |                 |
-| November        | November         | October         |                 |
-+-----------------+------------------+-----------------+-----------------+
-| 2nd Dekad       | 2nd Dekad        | 1st Dekad       | October         |
-|                 |                  |                 |                 |
-| November        | November         | November        |                 |
-+-----------------+------------------+-----------------+-----------------+
-| 3rd Dekad       | 3rd Dekad        | 2nd Dekad       | November        |
-|                 |                  | November        |                 |
-| November        | November         |                 |                 |
-+-----------------+------------------+-----------------+-----------------+
++-----------------+----------------------------+-----------------+-----------------+
+| **CDI (dekad)** | **fAPAR Anomaly (dekad)**  | **SMA (dekad)** | **SPI (month)** |
++-----------------+----------------------------+-----------------+-----------------+
+| 1st Dekad       | 1st Dekad                  | 3rd Dekad       | October         |
+|                 |                            |                 |                 |
+| November        | November                   | October         |                 |
++-----------------+----------------------------+-----------------+-----------------+
+| 2nd Dekad       | 2nd Dekad                  | 1st Dekad       | October         |
+|                 |                            |                 |                 |
+| November        | November                   | November        |                 |
++-----------------+----------------------------+-----------------+-----------------+
+| 3rd Dekad       | 3rd Dekad                  | 2nd Dekad       | November        |
+|                 |                            | November        |                 |
+| November        | November                   |                 |                 |
++-----------------+----------------------------+-----------------+-----------------+
 
 Availability of fAPAR Anomaly and Soil Moisture Anomaly datasets is approximately during the dates shown below.
 
-+-----------+-------+----------------------------------------+
-| Month     | Dekad | Data availability dates (these         |
-|           |       |                                        |
-|           |       | are the dates when fAPAR Anomaly       |
-|           |       |                                        |
-|           |       | and Soil Moisture will be made         |
-|           |       |                                        |
-|           |       | available on JRC Jeodpp)               |
-|           |       +----------------+-----------------------+
-|           |       | FAPAR Anomaly  | Soil Moisture Anomaly |
-+-----------+-------+----------------+-----------------------+
-| January   | 1st   | 18th January   | 21st January          |
-|           +-------+----------------+-----------------------+
-|           | 2nd   | 26th January   | 1st February          |
-|           +-------+----------------+-----------------------+
-|           | 3rd   | 3rd February   | 11th February         |
-+-----------+-------+----------------+-----------------------+
-| February  | 1st   | 19th February  | 21st February         |
-|           +-------+----------------+-----------------------+
-|           | 2nd   | 27th February  | 1st March             |
-|           +-------+----------------+-----------------------+
-|           | 3rd   | 7th March      | 11th March            |
-+-----------+-------+----------------+-----------------------+
-| March     | 1st   | 15th March     | 21st March            |
-|           +-------+----------------+-----------------------+
-|           | 2nd   | 23rd March     | 1st April             |
-|           +-------+----------------+-----------------------+
-|           | 3rd   | 8th April      | 11th April            |
-+-----------+-------+----------------+-----------------------+
-| April     | 1st   | 16th April     | 21st April            |
-|           +-------+----------------+-----------------------+
-|           | 2nd   | 24th April     | 1st May               |
-|           +-------+----------------+-----------------------+
-|           | 3rd   | 2nd May        | 11th May              |
-+-----------+-------+----------------+-----------------------+
-| May       | 1st   | 18th May       | 21st May              |
-|           +-------+----------------+-----------------------+
-|           | 2nd   | 26th May       | 1st June              |
-|           +-------+----------------+-----------------------+
-|           | 3rd   | 3rd June       | 11th June             |
-+-----------+-------+----------------+-----------------------+
-| June      | 1st   | 19th June      | 21st June             |
-|           +-------+----------------+-----------------------+
-|           | 2nd   | 27th June      | 1st July              |
-|           +-------+----------------+-----------------------+
-|           | 3rd   | 5th July       | 11th July             |
-+-----------+-------+----------------+-----------------------+
-| July      | 1st   | 13th July      | 21st July             |
-|           +-------+----------------+-----------------------+
-|           | 2nd   | 29th July      | 1st August            |
-|           +-------+----------------+-----------------------+
-|           | 3rd   | 6th August     | 11th August           |
-+-----------+-------+----------------+-----------------------+
-| August    | 1st   | 14th August    | 21st August           |
-|           +-------+----------------+-----------------------+
-|           | 2nd   | 22nd August    | 1st September         |
-|           +-------+----------------+-----------------------+
-|           | 3rd   | 7th September  | 11th September        |
-+-----------+-------+----------------+-----------------------+
-| September | 1st   | 15th September | 21st September        |
-|           +-------+----------------+-----------------------+
-|           | 2nd   | 23rd September | 1st October           |
-|           +-------+----------------+-----------------------+
-|           | 3rd   | 9th October    | 11th October          |
-+-----------+-------+----------------+-----------------------+
-| October   | 1st   | 17th October   | 21st October          |
-|           +-------+----------------+-----------------------+
-|           | 2nd   | 25th October   | 1st November          |
-|           +-------+----------------+-----------------------+
-|           | 3rd   | 2nd November   | 11th November         |
-+-----------+-------+----------------+-----------------------+
-| November  | 1st   | 18th November  | 21st November         |
-|           +-------+----------------+-----------------------+
-|           | 2nd   | 26th November  | 1st December          |
-|           +-------+----------------+-----------------------+
-|           | 3rd   | 4th December   | 11th December         |
-+-----------+-------+----------------+-----------------------+
-| December  | 1st   | 12th December  | 21st December         |
-|           +-------+----------------+-----------------------+
-|           | 2nd   | 28th December  | 1st January           |
-|           +-------+----------------+-----------------------+
-|           | 3rd   | 5th January    | 11th January          |
-+-----------+-------+----------------+-----------------------+
++-----------+-----------+-----------------------------------------------+
+| **Month** | **Dekad** | **Data availability dates (these **           |
+|           |           |                                               |
+|           |           | **are the dates when fAPAR Anomaly **         |
+|           |           |                                               |
+|           |           | **and Soil Moisture will be made **           |
+|           |           |                                               |
+|           |           | **available on JRC Jeodpp)**                  |
+|           |           +-------------------+---------------------------+
+|           |           | **FAPAR Anomaly** | **Soil Moisture Anomaly** |
++-----------+-----------+-------------------+---------------------------+
+| January   | 1st       | 18th January      | 21st January              |
+|           +-----------+-------------------+---------------------------+
+|           | 2nd       | 26th January      | 1st February              |
+|           +-----------+-------------------+---------------------------+
+|           | 3rd       | 3rd February      | 11th February             |
++-----------+-----------+-------------------+---------------------------+
+| February  | 1st       | 19th February     | 21st February             |
+|           +-----------+-------------------+---------------------------+
+|           | 2nd       | 27th February     | 1st March                 |
+|           +-----------+-------------------+---------------------------+
+|           | 3rd       | 7th March         | 11th March                |
++-----------+-----------+-------------------+---------------------------+
+| March     | 1st       | 15th March        | 21st March                |
+|           +-----------+-------------------+---------------------------+
+|           | 2nd       | 23rd March        | 1st April                 |
+|           +-----------+-------------------+---------------------------+
+|           | 3rd       | 8th April         | 11th April                |
++-----------+-----------+-------------------+---------------------------+
+| April     | 1st       | 16th April        | 21st April                |
+|           +-----------+-------------------+---------------------------+
+|           | 2nd       | 24th April        | 1st May                   |
+|           +-----------+-------------------+---------------------------+
+|           | 3rd       | 2nd May           | 11th May                  |
++-----------+-----------+-------------------+---------------------------+
+| May       | 1st       | 18th May          | 21st May                  |
+|           +-----------+-------------------+---------------------------+
+|           | 2nd       | 26th May          | 1st June                  |
+|           +-----------+-------------------+---------------------------+
+|           | 3rd       | 3rd June          | 11th June                 |
++-----------+-----------+-------------------+---------------------------+
+| June      | 1st       | 19th June         | 21st June                 |
+|           +-----------+-------------------+---------------------------+
+|           | 2nd       | 27th June         | 1st July                  |
+|           +-----------+-------------------+---------------------------+
+|           | 3rd       | 5th July          | 11th July                 |
++-----------+-----------+-------------------+---------------------------+
+| July      | 1st       | 13th July         | 21st July                 |
+|           +-----------+-------------------+---------------------------+
+|           | 2nd       | 29th July         | 1st August                |
+|           +-----------+-------------------+---------------------------+
+|           | 3rd       | 6th August        | 11th August               |
++-----------+-----------+-------------------+---------------------------+
+| August    | 1st       | 14th August       | 21st August               |
+|           +-----------+-------------------+---------------------------+
+|           | 2nd       | 22nd August       | 1st September             |
+|           +-----------+-------------------+---------------------------+
+|           | 3rd       | 7th September     | 11th September            |
++-----------+-----------+-------------------+---------------------------+
+| September | 1st       | 15th September    | 21st September            |
+|           +-----------+-------------------+---------------------------+
+|           | 2nd       | 23rd September    | 1st October               |
+|           +-----------+-------------------+---------------------------+
+|           | 3rd       | 9th October       | 11th October              |
++-----------+-----------+-------------------+---------------------------+
+| October   | 1st       | 17th October      | 21st October              |
+|           +-----------+-------------------+---------------------------+
+|           | 2nd       | 25th October      | 1st November              |
+|           +-----------+-------------------+---------------------------+
+|           | 3rd       | 2nd November      | 11th November             |
++-----------+-----------+-------------------+---------------------------+
+| November  | 1st       | 18th November     | 21st November             |
+|           +-----------+-------------------+---------------------------+
+|           | 2nd       | 26th November     | 1st December              |
+|           +-----------+-------------------+---------------------------+
+|           | 3rd       | 4th December      | 11th December             |
++-----------+-----------+-------------------+---------------------------+
+| December  | 1st       | 12th December     | 21st December             |
+|           +-----------+-------------------+---------------------------+
+|           | 2nd       | 28th December     | 1st January               |
+|           +-----------+-------------------+---------------------------+
+|           | 3rd       | 5th January       | 11th January              |
++-----------+-----------+-------------------+---------------------------+
 
 ------
 
@@ -202,4 +200,11 @@ of interest.
 Plans for analysis at lower admin levels?
 ------------------------------------------------------------------
 
-Currently, the system allows for analysis at Administrative Level 1. Analysis at lower admin levels is a feature in the pipeline.
+Currently, the system allows for analysis at Administrative Level 1. Development is well underway to extend this analysis for lower administrative levels.
+
+
+Any other future plans?
+--------------------------
+
+The development of the system is currently ongoing with plans to integrate periodic products disseminated as comprehensive reports to subscribed users, provide additional 
+thematic datasets, perform drought forecasting, translate system warnings into impact-based information/warnings among other plans.
