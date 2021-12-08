@@ -12,11 +12,15 @@ The SPI indicator shows the anomalies (deviations from the mean) of the observed
 Currenlty, th system implements two SPI products generated from their repsective sources computed using the same procedure:
  
 1. CHIRPS Based SPI:
+   
    - Spatial Resolution : 0.05 Decimal degrees or 5km
+   
    - Source :
   
 2. GPCC Based SPI
+   
    - Spatial Resolution : 1 Decimal degrees or 100km
+   
    - Source :
 
 Both SPI products are generated monthly for a range of accumulation periods covering the Greater Horn of Africa.
@@ -137,25 +141,25 @@ Weaknesses
 _________________________________________
 
 - As mentioned earlier, the parameters of the gamma distribution are calculated
-    (fitted) using historical non-zero rainfall accumulations. The cumulative probability
-    of observed rainfall is then adjusted using the probability (frequency) of zero
-    rainfall accumulations. However, **if there are many historical zero rainfall
-    accumulations, the estimated gamma distribution may not adequately fit the
-    frequency distribution of the historical rainfall**. Therefore, in regions with a high
-    probability of zero rainfall, the SPI indicator should be interpreted with care. In
-    such cases (typical of arid climates), the concept of a drought needs to be
-    adapted, and it may be best to restrict SPI calculation and analysis to the normal
-    rainy season, or to use alternative drought indicators.
+  (fitted) using historical non-zero rainfall accumulations. The cumulative probability
+  of observed rainfall is then adjusted using the probability (frequency) of zero
+  rainfall accumulations. However, **if there are many historical zero rainfall
+  accumulations, the estimated gamma distribution may not adequately fit the
+  frequency distribution of the historical rainfall**. Therefore, in regions with a high
+  probability of zero rainfall, the SPI indicator should be interpreted with care. In
+  such cases (typical of arid climates), the concept of a drought needs to be
+  adapted, and it may be best to restrict SPI calculation and analysis to the normal
+  rainy season, or to use alternative drought indicators.
 
 - Because SPI is based only on precipitation, it **does not address the effects of high
-    temperatures on drought conditions**, such as by damaging cultivated and natural
-    ecosystems, and increasing evapotranspiration and water stress. A new variation
-    of SPI - the **Standardized Precipitation and Evapotranspiration Index** (SPEI) -
-    has been developed (Vicente-Serrano et al., 2010), which includes precipitation and
-    temperature, in order to identify increases in drought severity linked with higher
-    water demand by evapotranspiration. The SPEI has the advantage over the Palmer Drought Severity Index (PDSI), for example, in that it captures the “multiscalar”
-    characteristic of drought, whereby water deficits accumulate over different timescales, 
-    differentiating between hydrological, environmental, agricultural, and other droughts.
+  temperatures on drought conditions**, such as by damaging cultivated and natural
+  ecosystems, and increasing evapotranspiration and water stress. A new variation
+  of SPI, the **Standardized Precipitation and Evapotranspiration Index** (SPEI), 
+  has been developed (Vicente-Serrano et al., 2010), which includes precipitation and 
+  temperature, in order to identify increases in drought severity linked with higher
+  water demand by evapotranspiration. The SPEI has the advantage over the Palmer Drought Severity Index (PDSI), for example, in that it captures the “multiscalar” 
+  characteristic of drought, whereby water deficits accumulate over different timescales, 
+  differentiating between hydrological, environmental, agricultural, and other droughts.
 
 ----------
 
