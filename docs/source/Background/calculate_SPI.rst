@@ -11,13 +11,13 @@ The SPI indicator shows the anomalies (deviations from the mean) of the observed
 
 Currenlty, th system implements two SPI products generated from their repsective sources computed using the same procedure:
  
-1. CHIRPS Based SPI:
+1. **CHIRPS Based SPI**:
    
    - Spatial Resolution : 0.05 Decimal degrees or 5km
    
    - Source :
   
-2. GPCC Based SPI
+2. **GPCC Based SPI**
    
    - Spatial Resolution : 1 Decimal degrees or 100km
    
