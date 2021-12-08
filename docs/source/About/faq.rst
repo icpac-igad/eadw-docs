@@ -177,6 +177,21 @@ agricultural conditions.
 ------
 
 
+Why is the Combined Drought Indicator saying an area is experiencing drought when I know it is not?
+----------------------------------------------------------------------------------------------------------
+
+Generally the assessment of drought is done using individual indicators that are based on meteorological or hydrological data, or remote sensing imagery. 
+The development of a combined indicator that integrates meteorological, hydrological and remote sensing data, can help to reduce false alarms, which may arise for example in the case of 
+vegetation-based indicators (e.g. FAPAR Anomaly) where a biomass reduction can be caused by factors other than a drought-induced water stress.
+
+The final output should be interpreted as showing areas potentially experiencing drought. Several factors could lead to the identification of patterns 
+of drought occurence which do not seem to correlate to what is happening on the ground, the date of analysis being a very important one. While the Combined Drought Indicator integrates
+Soil Moisture Anomaly, SPI and fAPAR Anomaly data to yield its results, it is yet to integrate exposure/vulnerability information to furthur customize it for the region. It is also worth 
+noting the accuracy of the CDI is constrained by the accuracy of the datasets it is derived from.
+
+------
+
+
 Future Plans
 _____________________
 
