@@ -18,7 +18,6 @@ About
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption: About
 
    /About/general_information
@@ -30,7 +29,6 @@ Background information
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption: Background
 
    /Background/calculate_CDI
@@ -44,7 +42,6 @@ User Guide
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption: User Guide
 
    /User_Guide/introduction
@@ -58,7 +55,6 @@ Maintenance Guide
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption: Maintenance Guide
 
    /Maintenance_Guide/introduction
@@ -75,7 +71,6 @@ Data Manager Guide
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption: Data Manager Guide
 
    /Data_Manager_Guide/introduction
