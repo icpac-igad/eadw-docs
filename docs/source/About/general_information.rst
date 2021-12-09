@@ -1,7 +1,7 @@
 General information
 =====================
 
-The East Africa Drought Watch is a near-real time system that uses Earth Observation and Weather information to monitor drought conditions in the East Africa region. It contain drought-relevant information such as maps of indicators derived from different data sources (e.g., precipitation measurements, satellite measurements, modelled soil moisture content). Different tools, like Graphs and Compare Layers, allow for displaying and analysing the information and drought reports give an overview of the situation in case of imminent droughts.
+The `East Africa Drought Watch <https://droughtwatch.icpac.net/>`_  is a near-real time system that uses Earth Observation and Weather information to monitor drought conditions in the East Africa region. It contain drought-relevant information such as maps of indicators derived from different data sources (e.g., precipitation measurements, satellite measurements, modelled soil moisture content). Different tools, like Graphs and Compare Layers, allow for displaying and analysing the information and drought reports give an overview of the situation in case of imminent droughts.
 
 .. image:: ../_static/about/situation.png
    :align: center
