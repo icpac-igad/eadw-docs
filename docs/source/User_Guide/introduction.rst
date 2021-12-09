@@ -1,7 +1,7 @@
 Introduction
 ==============
 
-This section guides Drought Watch end-users how to utilize functionalities within the system. The system contains drought-relevant information
+This section guides Drought Watch end-users on how to utilize functionalities within the system. The system contains drought-relevant information
 such as maps of indicators derived from different data sources. It provides various tools like analytical graphs and interactive layer interaction allowing
 for display and analysis this drought information and drought reports give an overview of the situation in case of imminent droughts.
 
@@ -29,6 +29,10 @@ It comprises of:
 On the landing page of the system (https://droughtwatch.icpac.net), the latest situation of drought based on the Combined Drought Indicator is displayed. This
 Indicator is based on SPI, Soil moisture and fAPAR, to identify areas with potential to suffer agricultural drought, areas where the vegetation is already affected by drought conditions, 
 and areas in recovery process to normal conditions after a drought episode. `More details <https://droughtwatch.icpac.net/documents/2/EADW-CDI-Factsheet.pdf>`_ 
+
+.. image:: ../_static/about/situation.png
+   :align: center
+   
 
 Within the user guide, you will be able to undestand how to:
 

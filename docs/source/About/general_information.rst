@@ -7,6 +7,9 @@ The `East Africa Drought Watch <https://droughtwatch.icpac.net/>`_  is a near-re
    :align: center
 
 
+.. seealso:: To download a PDF version of this guide use :download:`East Africa Drought Watch Manual <https://droughtwatch.readthedocs.io/_/downloads/en/stable/pdf/>` 
+
+
 Authors
 _____________________
 
