@@ -14,18 +14,53 @@ ____________
 
 The first port of call for an editor is the login page for the administrator interface. Access this by adding /cms onto the end of your root URL (e.g. https://droughtwatch.icpac.net/cms). Enter your username and password and click Sign in.
 
-.. image:: ../_static/maintenance_guide/loggin.png
+.. image:: ../_static/maintenance_guide/login.png
    :align: center
 
-
-Connection to database
+Creating/Updating Stations
 ______________________________________
 
-This involves providing username and password credentials for a selected database during login to the read-in tool. Database connection credentials i.e., host/IP Address, database name and port are preconfigured at admin level. 
+As a data manager on the CMS, you are capable of creating new stations which will be referenced during reformating. To create a station, follow the steps below:
 
-.. image:: ../_static/data_manager_guide/db_conn.png
+First, select '**snippets**' on the left sidebar then select Stations. 
+
+.. image:: ../_static/data_manager_guide/add_station.png
    :align: center
 
+.. image:: ../_static/data_manager_guide/create_station.png
+   :align: center
+
+
+Fill the fields appropriately and save.
+
+.. image:: ../_static/data_manager_guide/add_station_info.png
+   :align: center
+
+---------
+
+
+Creating/Updating Observation Elements
+______________________________________________
+
+In addition to adding stations, a data manager can also add observation elements. This represent the weather element that is being monitored.
+To add an observation element, follow the steps below:
+
+First, select '**snippets**' on the left sidebar then select Observation Elements.
+
+.. image:: ../_static/data_manager_guide/add_element.png
+   :align: center
+
+.. image:: ../_static/data_manager_guide/create_element.png
+   :align: center
+
+
+Fill the fields appropriately and save.
+
+.. image:: ../_static/data_manager_guide/add_element_info.png
+   :align: center
+
+
+----------
 
 Reformat Station Data
 ______________________________________
@@ -41,18 +76,18 @@ For daily station data:
 
 3. Select year and month. (days will be automatically picked from the station file)
 
-4. Unscale (default set to yes where all decimal values will be converted to whole numbers)
 
-.. image:: ../_static/data_manager_guide/daily_reformat.png
+.. image:: ../_static/data_manager_guide/daily_data_reformat.png
    :align: center
 
 
-A preview of the reformatted station data will be shown. Notice the unscaling for rainfall and temperature values.
+A preview of the reformatted station data will be shown.
 
-.. image:: ../_static/data_manager_guide/daily_preview.png
+.. image:: ../_static/data_manager_guide/daily_data_preview.png
    :align: center
 
-The tool allows download of reformatted data in csv, shapefile or geojson format.  It also supports direct import into ClimSoft database.
+The tool allows download of reformatted data in csv, shapefile or geojson format.
+
 
 Dekadal data
 --------------
@@ -65,12 +100,11 @@ For dekadal station data:
 
 3. Select date
 
-4. Unscale (default set to yes where all decimal values will be converted to whole numbers)
 
-.. image:: ../_static/data_manager_guide/dekadal_reformat.png
+.. image:: ../_static/data_manager_guide/dekadal_data_reformat.png
    :align: center
 
-A preview of the reformatted station data will be shown. Notice the unscaling for rainfall and temperature values.
+A preview of the reformatted station data will be shown. 
 
-.. image:: ../_static/data_manager_guide/dekadal_preview.png
+.. image:: ../_static/data_manager_guide/dekadal_data_preview.png
    :align: center

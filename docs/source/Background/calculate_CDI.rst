@@ -4,11 +4,6 @@ Combined Drought indicator (CDI)
 Introduction
 _____________________
 
-This Factsheet provides a detailed technical description of the Combined Drought
-Indicator (CDI) as implemented in the East Africa Drought Watch, and which is used for
-detecting and monitoring areas that either are affected or have the potential to be
-affected by agricultural drought.
-
 The meteorological, hydrological and satellite-derived biophysical upon which the CDI
 indicator produced by EADW is based, as well as the indicator’s temporal and spatial
 scales and geographic coverage, are summarised below.
@@ -190,6 +185,6 @@ ____________
     Europe. Natural Hazards and Earth System Sciences, 12, 3519-3531.
 
 
-`CDI Factsheet: <https://droughtwatch.icpac.net/documents/2/EADW-CDI-Factsheet.pdf>`_ 
+:download:`Download CDI Factsheet<https://droughtwatch.icpac.net/documents/2/EADW-CDI-Factsheet.pdf>`
 
 :download:`Download CDI Data <https://droughtwatch.icpac.net:5000/IGAD_Combined_Drought_Indicator/CHIRPS/>` 

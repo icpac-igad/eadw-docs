@@ -1,7 +1,7 @@
 East Africa Drought Watch Mapviewer
 =====================================
 
-The East Africa Drought Watch Mapviewer is an interactive user-interface containing drought-related layers related generated from 
+The East Africa Drought Watch Mapviewer is an interactive user-interface containing drought-related layers generated  
 over a period of time from Earth Observation and Station data. 
 
 .. image:: ../_static/user_guide/mapviewer_wide.png
