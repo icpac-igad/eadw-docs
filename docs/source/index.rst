@@ -48,7 +48,18 @@ User Guide
    /User_Guide/mapviewer
    /User_Guide/report
    /User_Guide/feedback
-   
+
+
+Data Manager Guide 
+--------------------
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Data Manager Guide
+
+   /Data_Manager_Guide/introduction
+   /Data_Manager_Guide/usage
+
 
 Maintenance Guide
 --------------------
@@ -65,15 +76,5 @@ Maintenance Guide
    /Maintenance_Guide/cms_page_moderation
    /Maintenance_Guide/cms_admin_tasks
    /Maintenance_Guide/cms_mapviewer_manager
-
-Data Manager Guide 
---------------------
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Data Manager Guide
-
-   /Data_Manager_Guide/introduction
-   /Data_Manager_Guide/usage
 
 
