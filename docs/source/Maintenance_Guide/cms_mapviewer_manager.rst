@@ -13,6 +13,8 @@ In addition to managing static page content within the East Africa Drought Watch
    :align: center
 
 
+----------
+
 Creating, updating and deleting legends (symbology) and assigning it to a layer
 _________________________________________________________________________________
 
@@ -28,6 +30,7 @@ Legend attributes include a title, a legend type (basic, choropleth, gradient) a
 
 .. note:: Creating a legend only creates the symbology representation on the mapviewer. To change the actual colors showing on the map for each layer, edit classification mapfiles as explained in MapServer mapfiles section.
 
+----------
 
 Creating, updating and deleting dataset categories
 _________________________________________________________________________________
@@ -45,6 +48,7 @@ To create a **dataset category** , under **snippets** select dataset categories 
 .. image:: ../_static/maintenance_guide/create_dataset_category.png
    :align: center
 
+----------
 
 Creating, updating and deleting a datasets
 _________________________________________________________________________________
@@ -70,6 +74,7 @@ To create a **dataset** , under **snippets** select dataset option and add a dat
 
 Follow instructions below to create a layer.
 
+----------
 
 Creating, updating and deleting a layer/ layers belonging to a dataset
 _________________________________________________________________________________
@@ -81,6 +86,7 @@ To create a layer, select **add layer** button at the bottom of the add dataset 
 
 .. note:: It is recommended to enable both default and active checkboxes on the form for dataset ciomprised of a sinlge layer while enabling active box only for the primary layer in a multilayer dataset.
 
+----------
 
 Creating, updating and deleting metadata information and linking it to a dataset
 _________________________________________________________________________________
