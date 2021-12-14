@@ -36,30 +36,6 @@ Fill the fields appropriately and save.
 .. image:: ../_static/data_manager_guide/add_station_info.png
    :align: center
 
----------
-
-
-Creating/Updating Observation Elements
-______________________________________________
-
-In addition to adding stations, a data manager can also add observation elements. This represent the weather element that is being monitored.
-To add an observation element, follow the steps below:
-
-First, select '**snippets**' on the left sidebar then select Observation Elements.
-
-.. image:: ../_static/data_manager_guide/add_element.png
-   :align: center
-
-.. image:: ../_static/data_manager_guide/create_element.png
-   :align: center
-
-
-Fill the fields appropriately and save.
-
-.. image:: ../_static/data_manager_guide/add_element_info.png
-   :align: center
-
-
 ----------
 
 Reformat Station Data
