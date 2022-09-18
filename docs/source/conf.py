@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'East Africa Drought Watch'
-copyright = '2021, ICPAC'
+copyright = '2022, ICPAC'
 author = 'ICPAC'
 
 release = '0.1'

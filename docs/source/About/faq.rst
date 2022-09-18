@@ -162,7 +162,7 @@ Is there an option to download raster data on the drought watch?
 ------------------------------------------------------------------
 
 Both Geotiff and NetCDF Raster files for datasets on the mapviewer are available on drought watch's https file server at 
-https://droughtwatch.icpac.net:5000/ . All files are grouped yearly and bands/time dimansions split based on the temporal resolution.
+https://droughtwatch.icpac.net/ftp . All files are grouped yearly and bands/time dimansions split based on the temporal resolution.
 
 ------
 

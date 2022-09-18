@@ -12,7 +12,8 @@ This tool assumes country-specific structures remain consistent.
 Logging in
 ____________
 
-The first port of call for an editor is the login page for the administrator interface. Access this by adding /cms onto the end of your root URL (e.g. https://droughtwatch.icpac.net/cms). Enter your username and password and click Sign in.
+The first port of call for an editor is the login page for the administrator interface. Access this by adding /cms onto the end of your root URL 
+(e.g. https://droughtwatch.icpac.net/cms). Enter your username and password and click Sign in.
 
 .. image:: ../_static/maintenance_guide/login.png
    :align: center
